@@ -3,6 +3,7 @@
 
 ### Hadoop
 
+[hdfs的安装部署](https://github.com/RobinOfSky/Big-DATA/blob/master/HDFS%E7%9A%84%E9%9B%86%E7%BE%A4%E9%85%8D%E7%BD%AE.md)
 ### HdFS
 
 ### Mapreduce
