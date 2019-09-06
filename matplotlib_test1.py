@@ -23,7 +23,7 @@ plt.yticks(_yticks_label[::3])
 plt.grid(alpha=0.6)
 
 #显示x,y(linestyle="--   ,-  , :  ,.  ,  .-   ")
-plt.plot(x,y_1,label="first",color="red",linewidth=5,alpha=0.6)
+plt.plot(x,y_1,label="first",color="red",linewidth=2,alpha=0.6)
 plt.plot(x,y_2,label="second",color="green",linewidth=3,alpha=0.3)
 
 #显示图例
@@ -32,4 +32,4 @@ plt.plot(x,y_2,label="second",color="green",linewidth=3,alpha=0.3)
 plt.show()
 
 #保存图片
-plt.savefig("./test.png")
+#plt.savefig("./test.png")
